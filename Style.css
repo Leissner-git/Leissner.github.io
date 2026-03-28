@@ -4,7 +4,10 @@ body{
     padding-bottom: 5rem;
     padding-top: 5rem;
 }
-
+link{
+    color: black;
+    text-decoration: none;
+}
 .topline {
   background-color: grey;
 }
@@ -17,8 +20,4 @@ body{
 .icon{
     background-color: goldenrod;
     color: black;
-}
-link{
-    color: black;
-    text-decoration: none;
 }
