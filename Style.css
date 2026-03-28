@@ -1,6 +1,7 @@
 body{
     background-color: gold;
     margin: 0%;
+    padding: 2rem;
     padding-bottom: 5rem;
     inline-size: auto;
 }
@@ -9,20 +10,20 @@ link {
     text-decoration: none;
 }
 .topline {
-    background-color: rgb(255, 255, 255);
+    background-color: gray;
 }
 .bio {
 
     background-color: paleturquoise;
-    padding: 2rem;
+
 }
 .mainzone {
 
     background-color: gold;
-    padding: 2rem;
+
 }
 .icon {
     background-color: goldenrod;
     color: black;
-    padding: 2rem;
+
 }
