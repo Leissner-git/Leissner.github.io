@@ -1,21 +1,24 @@
 body{
     background-color: turquoise;
+    margin: 0%;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
 }
 
 .topline {
   background-color: grey;
 }
-bio{
+.bio{
     background-color: paleturquoise;
 }
-mainzone{
+.mainzone{
     background-color: gold;
     }
-icon{
+.icon{
     background-color: goldenrod;
     color: black;
 }
-a{
+link{
     color: black;
     text-decoration: none;
 }
