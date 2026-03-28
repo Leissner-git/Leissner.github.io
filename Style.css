@@ -2,8 +2,9 @@ body{
     background-color: turquoise;
     margin: 0%;
     padding-bottom: 5rem;
-    padding-top: 5rem;
+    
     inline-size: 3rem;
+    
 }
 link {
     color: black;
@@ -11,8 +12,6 @@ link {
 }
 .topline {
   background-color: grey;
-  border-width: 2rem;
-  border-color: red;
 }
 .bio {
 
