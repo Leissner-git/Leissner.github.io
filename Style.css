@@ -1,8 +1,6 @@
 body{
     background-color: turquoise;
     margin: 0%;
-    padding-bottom: 5rem;
-    padding-top: 5rem;
 }
 link {
     color: black;
@@ -12,12 +10,18 @@ link {
   background-color: grey;
 }
 .bio {
+    padding-bottom: 5rem;
+    padding-top: 5rem;
     background-color: paleturquoise;
 }
 .mainzone {
+    padding-bottom: 5rem;
+    padding-top: 5rem;
     background-color: gold;
 }
 .icon {
+    padding-bottom: 5rem;
+    padding-top: 5rem;
     background-color: goldenrod;
     color: black;
 }
