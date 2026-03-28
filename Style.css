@@ -2,8 +2,7 @@ body{
     background-color: turquoise;
     margin: 0%;
     padding-bottom: 5rem;
-    
-    inline-size: 3rem;
+    padding-top: 5rem;
     
 }
 link {
@@ -22,7 +21,6 @@ link {
     background-color: gold;
 }
 .icon {
-
     background-color: goldenrod;
     color: black;
 }
