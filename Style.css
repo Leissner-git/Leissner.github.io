@@ -13,16 +13,20 @@ link {
     background-color: gray;
 }
 .bio {
-
-    background-color: paleturquoise;
+    border-width: 2rem;
+    border-color: turquoise;
+    background-color: turquoise;
 
 }
 .mainzone {
-
+    border-width: 2rem;
+    border-color: gold;
     background-color: gold;
 
 }
 .icon {
+    border-width: 2rem;
+    border-color: goldenrod;
     background-color: goldenrod;
     color: black;
 
