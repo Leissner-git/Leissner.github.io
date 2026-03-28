@@ -1,6 +1,9 @@
 body{
     background-color: turquoise;
     margin: 0%;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    inline-size: 3rem;
 }
 link {
     color: black;
@@ -8,20 +11,19 @@ link {
 }
 .topline {
   background-color: grey;
+  border: 2rem;
+  border-color: red;
 }
 .bio {
-    padding-bottom: 5rem;
-    padding-top: 5rem;
+
     background-color: paleturquoise;
 }
 .mainzone {
-    padding-bottom: 5rem;
-    padding-top: 5rem;
+
     background-color: gold;
 }
 .icon {
-    padding-bottom: 5rem;
-    padding-top: 5rem;
+
     background-color: goldenrod;
     color: black;
 }
