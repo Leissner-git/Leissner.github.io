@@ -1,5 +1,5 @@
 body{
-    background-color: turquoise;
+    background-color: gold;
     margin: 0%;
     padding-bottom: 5rem;
     inline-size: auto;
@@ -14,12 +14,15 @@ link {
 .bio {
 
     background-color: paleturquoise;
+    padding: 2rem;
 }
 .mainzone {
 
     background-color: gold;
+    padding: 2rem;
 }
 .icon {
     background-color: goldenrod;
     color: black;
+    padding: 2rem;
 }
