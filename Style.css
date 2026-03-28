@@ -10,5 +10,6 @@
 .icon{
     background-color: goldenrod;
     color: red;
+    text-decoration: none;
     width: 50rem;
 }
