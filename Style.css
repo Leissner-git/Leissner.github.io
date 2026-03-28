@@ -15,3 +15,7 @@ icon{
     background-color: goldenrod;
     color: black;
 }
+a{
+    color: black;
+    text-decoration: none;
+}
